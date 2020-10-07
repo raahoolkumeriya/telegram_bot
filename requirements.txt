@@ -1,0 +1,8 @@
+flask
+python-telegram-bot
+requests
+gunicorn==19.9.0
+psycopg2==2.7.5
+whitenoise==3.3.0
+beautifulsoup4
+google

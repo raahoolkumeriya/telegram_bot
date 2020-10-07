@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Important Files
+telebot/credentials.py
+telebot/get_MEC.py
+
 # Distribution / packaging
 .Python
 build/
