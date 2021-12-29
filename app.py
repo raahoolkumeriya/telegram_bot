@@ -83,10 +83,10 @@ def index():
     <pre>
     /search "String to be search"
     </pre>
-    <p>NOSDAQ</p>
+    <p>Crypto Market prise</p>
     <pre>
-    /mecusdt
-    /ethusdt
+    /get btc
+    /get eth
     </pre>
     """  
 
